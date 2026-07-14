@@ -80,4 +80,4 @@ This project implements Modern Portfolio Theory (Markowitz Portfolio Optimizatio
 ### Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/puneetsharma560
-- GitHub: https://github.com/YOUR-GITHUB-USERNAME
+- GitHub: https://github.com/puneetsharma560
